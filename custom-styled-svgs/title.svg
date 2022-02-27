@@ -1,0 +1,26 @@
+<svg fill="none" style="width: 100%;height: 400px;" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                h1 {
+                    color: #fff;
+                    font-size: 2rem;
+                    font-weight: 200;
+                    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                }
+                p {
+                    color: #fff;
+                    font-size: 1.5rem;
+                    font-weight: 200;
+                    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                }
+            </style>
+                <h1>Hi there 👋, I'm Nethrenial</h1>
+                <p>Ah.. What did you ask?
+                <br/> That didn't sound like a real name? 
+                <br/> haha.. It isn't 🤣.I just like to use as an alias.
+                <br/>My real name is Nethsara Sandeepa Elvitigala. 
+                </p>
+        </div>
+    </foreignObject>
+</svg>
