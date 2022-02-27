@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Metrics](/github-metrics.svg)
+(/metrics.plugin.achievements.compact.svg)
 
 <!--
 **Nethrenial/Nethrenial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
