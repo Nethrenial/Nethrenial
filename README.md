@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-![Metrics](/github-metrics.svg)
-![Achievements](/metrics.plugin.achievements.svg)
+<!-- ![Metrics](/github-metrics.svg) -->
+<!-- ![Achievements](/metrics.plugin.achievements.svg) -->
+
+
+<div style="display:flex;flex-direction:column;justify-content: center;align-items:center;">
+<img src="/github-metrics.svg" alt="Metrics"/>
+<img src="/metrics.plugin.achievements.svg" alt="Achievements"/>
+</div>
 
 <!--
 **Nethrenial/Nethrenial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
