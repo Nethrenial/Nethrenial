@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <!-- ![Metrics](/github-metrics.svg) -->
-<!-- ![Achievements](/metrics.plugin.achievements.svg) -->
+<!-- ![Achievements](/metrics.plugin.achievements.compact.svg) -->
 
 
-<div style="display:flex;flex-direction:column;justify-content: center;align-items:center;">
-<img src="/github-metrics.svg" alt="Metrics"/>
-<img src="/metrics.plugin.achievements.svg" alt="Achievements"/>
+<div style="display:flex;justify-content: center;align-items:center;">
+<img src="/github-metrics.svg" alt="Metrics" style="width: 50%;"/>
+<img src="/metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 50%;"/>
 </div>
 
 <!--
