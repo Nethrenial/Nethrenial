@@ -1,12 +1,5 @@
-# Hi there 👋
+<img src="/main.svg" style="width: 100%;height: 100px;" alt="css-in-readme">
 
-
-
-<div align="center">
-    <img src="/main.svg" style="width: 100%;height: 100px;" alt="css-in-readme">
-</div>
-
-<div>
 <img src="/github-metrics.svg" alt="Metrics"/>
 <img src="/metrics.plugin.isocalendar.svg" alt="Calendar"/>
 <img src="/metrics.plugin.languages.svg" alt="Languages"/>
