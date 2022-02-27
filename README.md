@@ -1,4 +1,4 @@
-<img src="./custom-styled-svgs/title.svg" style="width: 100%;height: 300px;" alt="css-in-readme">
+<img src="./custom-styled-svgs/title.svg" style="width: 100%;height: 300px;" alt="Introduction">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Nethrenial.Nethrenial)  
 You are also one of them :wink:
