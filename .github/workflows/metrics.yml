@@ -16,3 +16,4 @@ jobs:
           filename: metrics.plugin.achievements.svg
           base: ""
           plugin_achievements: yes
+          plugin_achievements_display: compact
