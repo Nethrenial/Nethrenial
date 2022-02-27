@@ -1,5 +1,11 @@
 # Hi there 👋
 
+
+
+<div align="center">
+    <img src="/custom-styled-svgs/main.svg" width="400" height="400" alt="css-in-readme">
+</div>
+
 <div>
 <img src="/github-metrics.svg" alt="Metrics"/>
 <img src="/metrics.plugin.isocalendar.svg" alt="Calendar"/>
