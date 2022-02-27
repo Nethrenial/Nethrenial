@@ -14,14 +14,13 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          filename: /metric-svgs/github-metrics.svg
   github-metrics-achievements:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: /metric-svgs/metrics.plugin.achievements.svg
+          filename: achievements.svg
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -31,7 +30,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: /metric-svgs/metrics.plugin.habits.svg
+          filename: habits.svg
           base: ""
           plugin_habits: yes
           plugin_habits_from: 800
@@ -42,7 +41,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: /metric-svgs/metrics.plugin.languages.svg
+          filename: languages.svg
           base: ""
           plugin_languages: yes
   github-metrics-isocalendar:
@@ -51,7 +50,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: /metric-svgs/metrics.plugin.isocalendar.svg
+          filename: isocalendar.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year

@@ -1,10 +1,10 @@
 <img src="./custom-styled-svgs/title.svg" style="width: 100%;height: 400px;" alt="css-in-readme">
 
-<img src="./metric-svgs/github-metrics.svg" alt="Metrics"/>
-<img src="./metric-svgs/metrics.plugin.isocalendar.svg" alt="Calendar"/>
-<img src="./metric-svgs/metrics.plugin.languages.svg" alt="Languages"/>
-<img src="./metric-svgs/metrics.plugin.achievements.svg" alt="Achievements"/>
-<img src="./metric-svgs/metrics.plugin.habits.svg" alt="Habits"/>
+<img src="./github-metrics.svg" alt="Metrics"/>
+<img src="./isocalendar.svg" alt="Calendar"/>
+<img src="./languages.svg" alt="Languages"/>
+<img src="./achievements.svg" alt="Achievements"/>
+<img src="./habits.svg" alt="Habits"/>
 </div>
 
 <!--
