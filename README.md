@@ -26,6 +26,8 @@ I enjoy using my obsessive need for perfection to create something that is both 
 
 </br>
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Nethrenial/Nethrenial/blob/main/devcard.svg" width="400" alt="Nethsara Sandeepa's Dev Card"/></a>
+
 
 <img src="./github-metrics.svg" alt="Metrics"/>
 <img src="./isocalendar.svg" alt="Calendar"/>
