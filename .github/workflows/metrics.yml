@@ -25,6 +25,7 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_achievements_threshold: S
   github-metrics-habits:
     runs-on: ubuntu-latest
     steps:
