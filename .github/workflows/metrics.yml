@@ -25,7 +25,6 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: S
   github-metrics-habits:
     runs-on: ubuntu-latest
     steps:
@@ -46,6 +45,15 @@ jobs:
           filename: languages.svg
           base: ""
           plugin_languages: yes
+  github-metrics-stargazers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: stargazers.svg
+          base: ""
+          plugin_stargazers: yes
   github-metrics-isocalendar:
     runs-on: ubuntu-latest
     steps:
