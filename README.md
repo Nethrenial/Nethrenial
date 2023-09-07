@@ -1,28 +1,27 @@
-<img src="./custom-styled-svgs/title.svg" style="width: 100%;height: 300px;" alt="Introduction">
+<img src="./custom-styled-svgs/title.svg" style="width: 100%;height: 220px;" alt="Introduction">
 
-![](https://visitor-badge.glitch.me/badge?page_id=Nethrenial.Nethrenial)  
-You are also one of them :wink:
+ [![HitCount](https://hits.dwyl.com/Nethrenial/Nethrenial/Nethrenial.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Nethrenial/Nethrenial/Nethrenial)
 
 
 ## A little bit about me
 
-I am currently a computer science student, but with my passion for programming, I started coding way before attending university. I'm primarily doing web development, but I am interested in learning more about all kinds of programming . including but not limited to Desktop development, game development, Data Science.
+I am currently a computer science student, but with my passion for programming, I started coding way before attending university. I'm primarily doing full stack web development, but I am interested in learning more about all kinds of programming . including but not limited to Desktop application development, game development, Data Science. Time to time I dabble with some low level programming too! like socket programming.
 
-I enjoy using my obsessive need for perfection to create something that is both beautiful and functional. I am always looking for new ways to improve my code and learn new things.
+I enjoy using my obsessive need for perfection to create software that is both beautiful and functional. I am always looking for new ways to improve my code and learn new things.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on a university project that is essentially a AutoMobile service & product management system but with a twist along with my group members.
+- 👨🏻‍💻 I’m currently working on a university project where we build a cutomized LMS and a institute management system focusing on distributing content more securely and encouraging interaction between students and tutors for a private tution institute.
 
-- 🚀 I’m currently experimenting with PHP;
+- 🚀 I’m currently experimenting with Godot Game engine;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Email me at nethsarasandeepaelvitigala@gmail.com;
 - or connect with me on <br/><br/>
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nethsara-elvitigala)
-    [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/nethsara)
-    [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/nethsara.sandeepa/)
-    <!-- [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/) -->
-<!-- - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->
+    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nethsara-elvitigala)
+    [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nethsara)
+    [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nethsara.sandeepa/)
+    [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://gapur-kassym.medium.com/)
+- 📝 [Check my CV](https://aqua-valentine-6.tiiny.site/)
 
 </br>
 
