@@ -2,7 +2,6 @@
 
  [![HitCount](https://hits.dwyl.com/Nethrenial/Nethrenial/Nethrenial.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Nethrenial/Nethrenial/Nethrenial)
 
-
 ## A little bit about me
 
 I am currently a computer science student, but with my passion for programming, I started coding way before attending university. I'm primarily doing full stack web development, but I am interested in learning more about all kinds of programming . including but not limited to Desktop application development, game development, Data Science. Time to time I dabble with some low level programming too! like socket programming.
