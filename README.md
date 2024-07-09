@@ -18,6 +18,8 @@ I enjoy using my obsessive need for perfection to create software that both look
     [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nethsara-elvitigala)
     [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nethrenial001/)
     [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nethsara.sandeepa/)
+
+
 **Want to find out my experience and education in details?** 
 - 📝 [You can check my CV here](https://github.com/Nethrenial/Nethrenial/blob/977c119e6cb5859492e65ca02b1d64f3fc69ec65/Nethsara_Elvitigala_CV.pdf)  
 
@@ -33,7 +35,7 @@ I enjoy using my obsessive need for perfection to create software that both look
 <img src="./habits.svg" alt="Habits"/>
 </div>
 
-Here's a summary of my work so far (well, atleast what I did on this Github account)!
+Here's a summary of my work so far (well, atleast what I did on this Github account. Unfortunately, some of my finest works are hiddent behind private github/gitlab organizations*wink*)!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nethrenial&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nethrenial&theme=dracula)
