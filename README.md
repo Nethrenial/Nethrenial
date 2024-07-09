@@ -17,7 +17,6 @@ I enjoy using my obsessive need for perfection to create software that is both b
 - 📫 Email me at nethsarasandeepaelvitigala@gmail.com;
 - or connect with me on <br/><br/>
     [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nethsara-elvitigala)
-    [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nethsara)
     [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nethsara.sandeepa/)
     [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://gapur-kassym.medium.com/)
 - 📝 [Check my CV](https://aqua-valentine-6.tiiny.site/)
