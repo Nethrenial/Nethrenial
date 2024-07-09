@@ -4,9 +4,9 @@
 
 ## A little bit about me
 
-I am currently a computer science student, but with my passion for programming, I started coding way before attending university. I'm primarily doing full stack web development, but I am interested in learning more about all kinds of programming . including but not limited to Desktop application development, game development, Data Science. Time to time I dabble with some low level programming too! like socket programming.
+I am currently a computer science undergraduate student (expecting transcription), but due to my passion for programming, I started coding way before attending university. I'm primarily doing full stack web development / software engineering, but I am always up to learning about all kinds of programming, including but not limited to Desktop application development, game development, Data Science. Time to time I dabble with some low level programming too! like socket programming.
 
-I enjoy using my obsessive need for perfection to create software that is both beautiful and functional. I am always looking for new ways to improve my code and learn new things.
+I enjoy using my obsessive need for perfection to create software that both looks good and functional. I am always looking for new ways to improve my coding skills and learn new technologies.
 
 **Talking about Personal Stuffs:**
 
