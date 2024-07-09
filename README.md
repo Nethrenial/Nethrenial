@@ -1,4 +1,4 @@
-<img src="./custom-styled-svgs/title.svg" style="width: 100%;height: 220px;" alt="Introduction">
+<img src="./custom-styled-svgs/title.svg" style="width: 100%;height: 150px;" alt="Introduction">
 
  [![HitCount](https://hits.dwyl.com/Nethrenial/Nethrenial/Nethrenial.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Nethrenial/Nethrenial/Nethrenial)
 
