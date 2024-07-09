@@ -19,7 +19,7 @@ I enjoy using my obsessive need for perfection to create software that both look
     [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nethrenial001/)
     [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nethsara.sandeepa/)
 **Want to find out my experience and education in details?** 
-- 📝 [You can check my CV here](https://github.com/Nethrenial/Nethrenial/blob/977c119e6cb5859492e65ca02b1d64f3fc69ec65/Nethsara_Elvitigala_CV.pdf)
+- 📝 [You can check my CV here](https://github.com/Nethrenial/Nethrenial/blob/977c119e6cb5859492e65ca02b1d64f3fc69ec65/Nethsara_Elvitigala_CV.pdf)  
 
 </br>
 
