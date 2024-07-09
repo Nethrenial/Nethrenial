@@ -25,6 +25,10 @@ I enjoy using my obsessive need for perfection to create software that both look
 
 </br>
 
+## Here's a summary of my work so far
+
+Well, atleast what I did on this Github account. Unfortunately, some of my finest works are hiddent behind private github/gitlab organizations!
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nethrenial&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
@@ -34,8 +38,6 @@ I enjoy using my obsessive need for perfection to create software that both look
 <img src="./achievements.svg" alt="Achievements"/>
 <img src="./habits.svg" alt="Habits"/>
 </div>
-
-Here's a summary of my work so far (well, atleast what I did on this Github account. Unfortunately, some of my finest works are hiddent behind private github/gitlab organizations*wink*)!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nethrenial&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nethrenial&theme=dracula)
