@@ -1,16 +1,14 @@
 <img src="./custom-styled-svgs/title.svg" style="width: 100%;height: 150px;" alt="Introduction">
 
- [![HitCount](https://hits.dwyl.com/Nethrenial/Nethrenial/Nethrenial.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Nethrenial/Nethrenial/Nethrenial)
-
 ## A little bit about me
 
-I am currently a computer science undergraduate student (expecting transcription), but due to my passion for programming, I started coding way before attending university. I'm primarily doing full stack web development / software engineering, but I am always up to learning about all kinds of programming, including but not limited to Desktop application development, game development, Data Science. Time to time I dabble with some low level programming too! like socket programming.
+I am currently a software engineer working at Haulmatic Technologies. I'm primarily doing full stack web development / software engineering, but I am always up to learning about all kinds of programming, including but not limited to Desktop application development, game development, Data Science. Time to time I dabble with some low level programming too! like socket programming.
 
 I enjoy using my obsessive need for perfection to create software that both looks good and functional. I am always looking for new ways to improve my coding skills and learn new technologies.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently balancing working as the lead softwar engineer in ZaVolt, which is a startup that I cofounded back in 2023, while also following an internship at SyscoLABS Technologies!
+- 👨🏻‍💻 I’m currently balancing working as a softwar engineer in Haulmatic while overlooking ZaVolt, which is a startup that I cofounded back in 2023!
 - 🚀 I’m currently exploring capabilities of MedusaJS in building custom B2B Ecommerce platforms;
 - 💬 Ask me about anything, I am happy to help.In fact, one of the joys of my life is to teach people things that I'm passionate about;
 - 📫 Email me at nethsarasandeepaelvitigala@gmail.com;
